@@ -1,3 +1,6 @@
+# Windows batch file for copying
+*.bat
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
