@@ -1,1 +1,0 @@
-copy /y "C:\Users\danew\.ipython\kernels\jkernel\well-mixed-problem.ipynb" "C:\Users\danew\Documents\GitHub\MixerRepulsionMotes\"
